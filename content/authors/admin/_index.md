@@ -80,5 +80,11 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a DPhil student supervised by Professor Arnaud Doucet, Professor George Deligiannidis and Dr Saifuddin Syed in computational statistics and machine learning. 
+I currently work on preconditioning methods for sampling schemes and deep learning frameworks for continuous signal processing. 
+Previously I completed a MPhil under the supervision of Professor Markus Hegland, Professor Michael Barnsley and Dr Kenneth Duru in computational mathematics where I derived the first numerical scheme able to accurately simulate the wave equation with high frequency components. 
+My method is used in the Stanford based industrial wave simulation software WaveQlab-3D and is approximately 100 times more computationally efficient compared to existing schemes. 
+I also derived a computationally efficient way to simulate PDE over fractal domains and compute orthogonal polynomials over general geometries. 
+
+I have also worked in various government laboratories as a computational mathematician, including CSIRO, NCI and DST in Australia. 
 {style="text-align: justify;"}
