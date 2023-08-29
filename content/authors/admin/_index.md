@@ -80,11 +80,10 @@ email: ''
 highlight_name: true
 ---
 
-I am a DPhil student supervised by Professor Arnaud Doucet, Professor George Deligiannidis and Dr Saifuddin Syed in computational statistics and machine learning. 
-I currently work on preconditioning methods for sampling schemes and deep learning frameworks for continuous signal processing. 
-Previously I completed a MPhil under the supervision of Professor Markus Hegland, Professor Michael Barnsley and Dr Kenneth Duru in computational mathematics where I derived the first numerical scheme able to accurately simulate the wave equation with high frequency components. 
-My method is used in the Stanford based industrial wave simulation software WaveQlab-3D and is approximately 100 times more computationally efficient compared to existing schemes. 
-I also derived a computationally efficient way to simulate PDE over fractal domains and compute orthogonal polynomials over general geometries. 
+I'm a DPhil student in computational statistics and machine learning, under the supervision of Professors Arnaud Doucet and George Deligiannidis and Dr Saifuddin Syed. 
+My current focus lies in harnessing preconditioning methods for sampling schemes and evolving deep learning strategies for continuous signal processing used in Computer Vision, Computational PDE and sampling methods. 
+In my first year, my work on U-Net (a neural network architecture) design was accepted for an Oral presentation at Neurips 2022, where I was further invited to speak at Neurips at Cambridge. 
+Previously in my MPhil, I was mentored by Professors Markus Hegland and Michael Barnsley and Dr Kenneth Duru, where I developed the first accurate stable numerical scheme for simulating hyperbolic PDE with high frequency components—a leap that led to its adoption in the industrial Stanford-based software, WaveQlab-3D. 
+This method now boasts an efficiency almost 100 times greater than its predecessors and serves as a counterexample to the prior assumption that one could not achieve high-frequency accuaracy and stability in such a scheme. Additionally, I've contributed to the simulation of PDE over fractal domains and explored orthogonal polynomials over varying geometries, creating some of the first algorithms to generate quadrature rules in non-smooth geometries. Beyond academia, I've worked for government labs such as CSIRO, NCI, and DST.
 
-I have also worked in various government laboratories as a computational mathematician, including CSIRO, NCI and DST in Australia. 
 {style="text-align: justify;"}
