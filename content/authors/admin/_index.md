@@ -27,8 +27,8 @@ bio: My research interests include Monte Carlo Methods, Deep Learning, Computer 
 # Interests to show in About widget
 interests:
   - Computational Mathematics
-  - Monte Carlo Methods
-  - Scientific Computing 
+  - Computational Statistics
+  - Machine Learning
 
 # Education to show in About widget
 education:
