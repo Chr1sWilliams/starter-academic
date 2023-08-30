@@ -85,7 +85,10 @@ My current focus lies in harnessing preconditioning methods for sampling schemes
 In my first year, my work on U-Net (a neural network architecture) design was accepted for an Oral presentation at Neurips 2022, where I was further invited to speak at Neurips at Cambridge. 
 
 Previously in my MPhil, I was mentored by Professors Markus Hegland and Michael Barnsley and Dr Kenneth Duru, where I developed the first accurate stable numerical scheme for simulating hyperbolic PDE with high frequency components—a leap that led to its adoption in the industrial Stanford-based software, WaveQlab-3D. 
-This method now boasts an efficiency almost 100 times greater than its predecessors and serves as a counterexample to the prior assumption that one could not achieve high-frequency accuaracy and stability in such a scheme. Additionally, I've contributed to the simulation of PDE over fractal domains and explored orthogonal polynomials over varying geometries, creating some of the first algorithms to generate quadrature rules in non-smooth geometries. 
+This method now boasts an efficiency almost 100 times greater than its predecessors and serves as a counterexample to the prior assumption that one could not achieve high-frequency accuaracy and stability in such a scheme. Additionally, I've contributed to the simulation of PDE over fractal domains and explored orthogonal polynomials over varying geometries, creating some of the first algorithms to generate quadrature rules in general geometries. 
+
+In my undergraduate, I created a numerical scheme for the approximation of rough data using tools from Fractal Geometry under the supervision of Professor Michael Barnsley. 
+I also found some fun fractal triangles, which are now used as examples in tiling theory and quantum physics. 
 
 Beyond academia, I've worked for government labs such as CSIRO, NCI, and DST.
 
