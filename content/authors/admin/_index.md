@@ -67,12 +67,12 @@ highlight_name: true
 
 I'm a DPhil student in computational statistics and machine learning, under the supervision of Professors Arnaud Doucet, George Deligiannidis and Dr Saifuddin Syed. 
 My current focus lies in harnessing preconditioning methods for sampling schemes and evolving deep learning strategies for continuous signal processing used in Computer Vision, Computational PDE and sampling methods. 
-In my first year, my work on U-Net (a neural network architecture) design was accepted for an Oral presentation at Neurips 2022, in which I was further invited to speak at Neurips at Cambridge. 
+In my first year, my work on U-Net (a neural network architecture) design was accepted for an Oral presentation at Neurips 2022, following which I was further invited to speak at Neurips at Cambridge. 
 
 Previously in my MPhil, I was mentored by Professors Markus Hegland, Michael Barnsley and Dr Kenneth Duru, where I developed the first accurate stable numerical scheme for simulating hyperbolic PDE with high frequency components—a leap that led to its adoption in the industrial Stanford-based software, WaveQlab-3D. 
 This method now boasts an efficiency almost 100 times greater than its predecessors and serves as a counterexample to the prior assumption that one could not achieve high-frequency accuaracy and stability in such a scheme. Additionally, I've contributed to the simulation of PDE over fractal domains and explored orthogonal polynomials over varying geometries, creating some of the first algorithms to generate quadrature rules in general geometries. 
 
-In my undergraduate, I created a numerical scheme for the approximation of rough data using tools from fractal geometry under the supervision of Professor Michael Barnsley. 
+In my undergraduate studies, I created a numerical scheme for the approximation of rough data using tools from fractal geometry under the supervision of Professor Michael Barnsley. 
 I also found some fun fractal triangles, which have been used as fractal examples in tiling theory and quantum physics. 
 
 Beyond academia, I've worked for government labs such as CSIRO, NCI, and DST.
